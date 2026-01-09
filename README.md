@@ -1,18 +1,81 @@
-# 💫 About Me:
-Engineer<br>🤖 AI Engineer specializing in LLM Fine-Tuning and Production ML Systems | Optimizing Llama 8B/70B/405B for enterprise applications<br>⚡ Production Impact: Delivered 40% fraud detection accuracy improvements and 70% process optimization through intelligent automation using Retrieval Augmented Generation and advanced prompt engineering<br>🔧 Tech Stack: Python • LLMs (Llama, OpenAI, Gemini) • Fine-Tuning & LoRA • Django/FastAPI • ChromaDB • AWS • Docker/Kubernetes • Explainable AI<br>📊 Real-World AI Solutions: From automated data extraction with Gemini Flash to algorithmic trading bots with sentiment analysis - I build AI that solves actual business problems<br>🎯 Open to Opportunities: Passionate about pushing the boundaries of Generative AI, Machine Learning, and Predictive Analytics in production environments<br>
+# Ayush Suryawanshi
 
+**Senior AI Engineer** | Building production LLM systems that don't just demo well—they ship at scale and print money.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-suryawanshi-4b7290206/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/globlyoptimized) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryawanashiayush007@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=globallyoptimized&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=globallyoptimized&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=globallyoptimized&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Currently architecting AI infrastructure at **Innoviti Technologies** where my systems process 5,000+ daily requests and have delivered **$84K+ in quantified business impact**. I don't build POCs that die in staging—I ship production-grade AI that survives contact with real users.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=globallyoptimized&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Actually Build
+
+### 🎯 Production Systems That Matter
+
+**AI Analyst** • Context-aware NLQ-to-SQL engine  
+Built the entire pipeline from scratch using Claude 3.7—now serving **1,600+ business queries daily** with 92% accuracy. Not a chatbot wrapper. Not a langchain demo. A real system handling actual business logic with PostgreSQL, Redis caching, and FastAPI microservices on AWS EC2.
+
+**Multimodal QC Automation** • Qwen3-VL + YOLOv9 pipeline  
+Engineered a vision-language system that auto-validates support tickets. Cut average QC time from **45 minutes to 4 minutes**—that's 11.25× faster, not "improved efficiency." Real computer vision, real business impact.
+
+**Sheldon** • Multi-agent automation engine  
+Orchestrated Llama 405B (via Sambanova) and Gemini 1.5 Flash to parse chaotic brand emails and Excel dumps into clean PostgreSQL records. **99.42% accuracy**, **$56K saved** in misconfiguration losses. This is what enterprise AI looks like when it's not just a GPT-4 API call.
+
+**Link Fraud Detection** • Real-time ML serving  
+Handles **3,700+ requests/hour** via FastAPI. Used Claude for EDA, scikit-learn for modeling. Result? **78% drop in fraud complaints**. No buzzwords—just a model that works under load.
+
+---
+
+## Tech I Use to Ship
+
+I don't list technologies I've "worked with"—here's what I'm currently running in production:
+
+**LLM Orchestration**  
+Claude Sonnet 4.5/Opus 4 • GPT-4o • Gemini 2.5 Pro • Llama 3 (405B) • DeepSeek R1 • Qwen 3 VL
+
+**Backend Infrastructure**  
+Python • Django • FastAPI • LangGraph • MCP • Celery • Redis • PostgreSQL • MongoDB
+
+**AI/ML Stack**  
+RAG architectures • Prompt engineering • LLM fine-tuning • ChromaDB/Milvus vector stores • YOLOv9 • Multimodal AI pipelines
+
+**Production DevOps**  
+AWS (EC2, SageMaker, Bedrock, Lambda, RDS) • Docker/Kubernetes • MLFlow • Prometheus • Nginx/Gunicorn
+
+---
+
+## The Actual Numbers
+```
+  1,600+  daily NLQ-to-SQL queries processed
+  3,700+  fraud detection requests/hour served
+ 11.25×   faster ticket validation (45min → 4min)
+   92%+  accuracy across production AI systems
+  $84K+  total cost savings delivered
+99.42%   accuracy on brand automation engine
+```
+
+---
+
+## What I'm Exploring Now
+
+- **Advanced RAG**: Moving beyond naive chunking—experimenting with hybrid search, reranking, and query decomposition
+- **Multi-agent orchestration**: Building systems where specialized LLMs collaborate, not just chain sequentially
+- **AI observability**: Because "it works on my machine" doesn't cut it when you're serving thousands of requests
+- **Structured output enforcement**: Making LLMs return JSON that doesn't break your API
+
+---
+
+
+Let's Talk
+
+I'm open to roles where I can build AI systems that actually ship—not research that stays in papers, not demos that never see production, not "AI strategy" that's just consulting. If you're solving hard problems with LLMs at scale, let's connect.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-leetcode-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryawanshiayush007@gmail.com)
+
+Location: Bengaluru, India  
+Open to: Applied AI Engineering • Production Backend Systems • LLM Infrastructure
+
+---
+
+*Last updated: January 2026*
