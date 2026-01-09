@@ -69,7 +69,7 @@ Let's Talk
 I'm open to roles where I can build AI systems that actually ship—not research that stays in papers, not demos that never see production, not "AI strategy" that's just consulting. If you're solving hard problems with LLMs at scale, let's connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushsuryawanshi.cloud/landing_page/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-leetcode-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryawanshiayush007@gmail.com)
 
