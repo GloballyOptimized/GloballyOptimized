@@ -195,9 +195,9 @@ Not research that stays in papers. Not demos that never see production.
 If you're solving hard problems at scale, let's talk.
 
 <!-- Replace the # placeholders below with your real email / LinkedIn / GitHub links -->
-[![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryawanshiayush007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-suryawanshi-4b7290206/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GloballyOptimized)
 
 </div>
 
